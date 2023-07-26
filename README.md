@@ -1,11 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=3200&pause=1000&width=435&lines=Hi+There+!%F0%9F%91%8B;I'm+Tran+Thanh+Son!" alt="Typing SVG" /></a>
-</h1>
-
-<h3 align="center">A passionate software developer from VietNam</h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&center=true&duration=3200&pause=1000&width=435&lines=Hi+There+!%F0%9F%91%8B;I'm+Tran+Thanh+Son!" alt="Typing SVG">
+</h3>
 
 <br/>
 
@@ -55,8 +52,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=trsonfu&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=trsonfu&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://streak-stats.demolab.com?user=trsonfu&theme=material-palenight&border_radius=10" alt="streak stats"/>
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=trsonfu&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
@@ -68,9 +64,3 @@
 </h3>
 
 <br/>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trsonfu&show_icons=true&locale=en&layout=compact" alt="trsonfu" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trsonfu&show_icons=true&locale=en" alt="trsonfu" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trsonfu&" alt="trsonfu" /></p>
