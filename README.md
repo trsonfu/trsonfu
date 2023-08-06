@@ -14,7 +14,7 @@
 
  💬 Ask me about **Node.js, React... or anything [here](https://github.com/trsonfu/issues)**
 
- ⚡ Fun fact **The best error message is the one that never shows up**
+ ⚡ Fun fact "**The best error message is the one that never shows up**"
  
  </div>
  
